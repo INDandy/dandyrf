@@ -2,7 +2,7 @@
  
 My Name's **DANDY ROYYAN FIRDAUS**.<br>
  
-I am currently honing my skills as a mobile developer, focusing on Kotlin programming. As a student at Universitas Muhammadiyah Cirebon, I have a deep passion for learning and staying updated with technological advancements. My thirst for knowledge has driven me to reach this point, and I fully acknowledge that my understanding is still far from that of many others. However, I refuse to give up. I am committed to continuous learning and relentless effort until I achieve my goals and realize my dreams.
+I am currently honing my skills as a frontend developer, As a student at Universitas Muhammadiyah Cirebon, I have a deep passion for learning and staying updated with technological advancements. My thirst for knowledge has driven me to reach this point, and I fully acknowledge that my understanding is still far from that of many others. However, I refuse to give up. I am committed to continuous learning and relentless effort until I achieve my goals and realize my dreams.
  
 ### Github Statistic
 <p align="left">
